@@ -73,6 +73,15 @@ header,
     background-size: cover;
 }
 
+#volunteer {
+    background: url("../img/bk-img-geo4.png") no-repeat center center ; 
+    /*background-image: linear-gradient(to right, #e6faff, #ccf5ff);*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 #about-me{
     background: url("../img/bk-img-white.png") no-repeat center center ; 
     -webkit-background-size: cover;
